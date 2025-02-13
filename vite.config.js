@@ -8,6 +8,7 @@ export default defineConfig({
     modules: {
       localsConvention: "camelCase",
     },
-    base:"darshan-portfolio",
+   
   },
+   base:"darshan-portfolio",
 });
