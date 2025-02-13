@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Bachelor of Engineering(B.E.)",
+    "organisation": "Atharva College of Engineering",
+    "startDate": "Dec, 2021",
+    "endDate": "Jun, 2025",
+    "experiences": ["Computer Science Enginnering", "9.1/10 CGPA"],
+    "imageSrc": "history/ACE.png"
+  },
+  {
+    "role": "HSC",
+    "organisation": "Utkarsha Vidyalaya Junior College",
+    "startDate": "Aug, 2019",
+    "endDate": "Aug, 2021",
+    "experiences": ["Science (PCMB)", "92.17%"],
+    "imageSrc": "history/edu.png"
+  },
+  {
+    "role": "SSC",
+    "organisation": "Utkarsha Vidyalaya English Medium School",
+    "startDate": "Jun, 2012",
+    "endDate": "Mar, 2019",
+    "experiences": [
+      "83.00%"
+      
+    ],
+    "imageSrc": "history/edu.png"
+  }
+]

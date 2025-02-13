@@ -1,0 +1,19 @@
+[
+  {
+    "title": "WANDERLUST",
+    "imageSrc": "projects/wanderlust.png",
+    "description": "Wanderlust is an Airbnb clone that connects travelers with unique stays worldwide, offering seamless booking and a personalized travel experience.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "https://wanderlust-qeed.onrender.com/listings",
+    "source": "https://github.com/Darshu1204/Wanderlust-AIRBNB-Clone.git"
+  },
+  {
+    "title": "Quiz App",
+    "imageSrc": "projects/quiz.png",
+    "description": "A dynamic quiz app featuring multiple categories and score tracking. Users can test their knowledge and improve their skills with engaging quizzes.",
+    "skills": ["React", "API", "HTML", "CSS"],
+    "demo": "https://drive.google.com/file/d/1Hgr95bRaw0JcIsCHneIMRfEYlRaN38Ew/view",
+    "source": "https://github.com/Darshu1204/Quiz_App.git"
+  }
+  
+]
